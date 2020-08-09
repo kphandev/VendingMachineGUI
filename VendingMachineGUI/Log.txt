@@ -1,0 +1,2 @@
+Sun Aug 09 00:43:23 EDT 2020 Cash added	++$5.00	Balance:5.00
+Sun Aug 09 00:43:24 EDT 2020 Cash added	++$10.00	Balance:15.00
